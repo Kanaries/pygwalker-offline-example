@@ -1,6 +1,12 @@
 # pygwalker-offline-example
 pygwalker offline example
 
+## Requirements
+
+```
+pygwalker==0.4.9.14
+```
+
 ## Quick Start
 
 1. clone project
